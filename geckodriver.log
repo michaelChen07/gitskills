@@ -1,0 +1,14 @@
+1495334597187	geckodriver	INFO	Listening on 127.0.0.1:65183
+1495334599090	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.K7oOafSMjSSE
+1495334599096	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1495334599483	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65189
+1495334605759	Marionette	INFO	Listening on port 65189
+JavaScript warning: https://lib.sinaapp.com/js/jquery/2.0.3/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://jandan.net/ooxx, line 822: TypeError: source is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
